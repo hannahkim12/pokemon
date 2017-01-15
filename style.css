@@ -12,5 +12,10 @@
 .pokemon {
 
 	color: hotpink;
-	backgroung-color: black;
+	background-color: black;
+}
+.pokemon2 {
+
+	color: red;
+	background-color: white;
 }
