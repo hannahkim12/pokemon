@@ -3,3 +3,9 @@
 	background-color: blue;
 	font-size: 65px;
 }
+
+.pokemon_pictures
+ {
+	height: 250px;
+	width: 250px;
+}
