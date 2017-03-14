@@ -1,6 +1,6 @@
 .title {
 	color: pink;
-	background-color: blue;
+	background-color: cyan;
 	font-size: 65px;
 }
 
@@ -18,5 +18,13 @@
  .pokemon2 {
 
  	color: blue;
- 	background-color: red;
+ 	background-color: white;
+ 	font-size: 70px;
+ }
+
+ .pokemon3 {
+
+    color: pink;
+    background: purple;
+
  }
