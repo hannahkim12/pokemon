@@ -4,15 +4,13 @@
 	font-size: 65px;
 }
 
-.pokemon_pictures
- {
+.pokemon_pictures {
 	height: 250px;
 	width: 250px;
 }
-.pokemon {
-
-	color: hotpink;
-	background-color: black;
+p.pokemon {
+	color: green;
+	font-size: 15px;
  }
 
  .pokemon2 {
